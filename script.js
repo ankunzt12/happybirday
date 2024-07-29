@@ -4,8 +4,8 @@ const sname = document.getElementById("name")
 
 
 
-title.innerText = "My Love, My heart, My cutiepie<3";
+title.innerText = "Vậy là “bà chị” của em đã thêm một tuổi mới nữa rồi. Chúc chị ngày càng xinh đẹp và mong mọi điều may mắn sẽ đến với chị.";
 
-desc.innerText = "I cannot tell you ho much I love you. These past 6 months have been the best 6 months of my life and you are the reason.I hope I never ever loose you and our bond grows stronger and deeper.";
+desc.innerText = "Chúc diệu sinh nhật vui vẻ.tuổi mới dồi dào sức khoẻ thành công trong công việc,và hạnh phúc bên gia đình";
 
-sname.innerText = "Chokrii";
+sname.innerText = "Xuân Diệu";
